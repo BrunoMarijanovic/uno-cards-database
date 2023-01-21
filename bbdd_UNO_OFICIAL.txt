@@ -1,0 +1,110 @@
+number;color;url
+0;red;http://unocardinfo.victorhomedia.com/graphics/uno_card-red0.png
+1;red;http://unocardinfo.victorhomedia.com/graphics/uno_card-red1.png
+2;red;http://unocardinfo.victorhomedia.com/graphics/uno_card-red2.png
+3;red;http://unocardinfo.victorhomedia.com/graphics/uno_card-red3.png
+4;red;http://unocardinfo.victorhomedia.com/graphics/uno_card-red4.png
+5;red;http://unocardinfo.victorhomedia.com/graphics/uno_card-red5.png
+6;red;http://unocardinfo.victorhomedia.com/graphics/uno_card-red6.png
+7;red;http://unocardinfo.victorhomedia.com/graphics/uno_card-red7.png
+8;red;http://unocardinfo.victorhomedia.com/graphics/uno_card-red8.png
+9;red;http://unocardinfo.victorhomedia.com/graphics/uno_card-red9.png
+1;red;http://unocardinfo.victorhomedia.com/graphics/uno_card-red1.png
+2;red;http://unocardinfo.victorhomedia.com/graphics/uno_card-red2.png
+3;red;http://unocardinfo.victorhomedia.com/graphics/uno_card-red3.png
+4;red;http://unocardinfo.victorhomedia.com/graphics/uno_card-red4.png
+5;red;http://unocardinfo.victorhomedia.com/graphics/uno_card-red5.png
+6;red;http://unocardinfo.victorhomedia.com/graphics/uno_card-red6.png
+7;red;http://unocardinfo.victorhomedia.com/graphics/uno_card-red7.png
+8;red;http://unocardinfo.victorhomedia.com/graphics/uno_card-red8.png
+9;red;http://unocardinfo.victorhomedia.com/graphics/uno_card-red9.png
+0;yellow;http://unocardinfo.victorhomedia.com/graphics/uno_card-yellow0.png
+1;yellow;http://unocardinfo.victorhomedia.com/graphics/uno_card-yellow1.png
+2;yellow;http://unocardinfo.victorhomedia.com/graphics/uno_card-yellow2.png
+3;yellow;http://unocardinfo.victorhomedia.com/graphics/uno_card-yellow3.png
+4;yellow;http://unocardinfo.victorhomedia.com/graphics/uno_card-yellow4.png
+5;yellow;http://unocardinfo.victorhomedia.com/graphics/uno_card-yellow5.png
+6;yellow;http://unocardinfo.victorhomedia.com/graphics/uno_card-yellow6.png
+7;yellow;http://unocardinfo.victorhomedia.com/graphics/uno_card-yellow7.png
+8;yellow;http://unocardinfo.victorhomedia.com/graphics/uno_card-yellow8.png
+9;yellow;http://unocardinfo.victorhomedia.com/graphics/uno_card-yellow9.png
+1;yellow;http://unocardinfo.victorhomedia.com/graphics/uno_card-yellow1.png
+2;yellow;http://unocardinfo.victorhomedia.com/graphics/uno_card-yellow2.png
+3;yellow;http://unocardinfo.victorhomedia.com/graphics/uno_card-yellow3.png
+4;yellow;http://unocardinfo.victorhomedia.com/graphics/uno_card-yellow4.png
+5;yellow;http://unocardinfo.victorhomedia.com/graphics/uno_card-yellow5.png
+6;yellow;http://unocardinfo.victorhomedia.com/graphics/uno_card-yellow6.png
+7;yellow;http://unocardinfo.victorhomedia.com/graphics/uno_card-yellow7.png
+8;yellow;http://unocardinfo.victorhomedia.com/graphics/uno_card-yellow8.png
+9;yellow;http://unocardinfo.victorhomedia.com/graphics/uno_card-yellow9.png
+0;green;http://unocardinfo.victorhomedia.com/graphics/uno_card-green0.png
+1;green;http://unocardinfo.victorhomedia.com/graphics/uno_card-green1.png
+2;green;http://unocardinfo.victorhomedia.com/graphics/uno_card-green2.png
+3;green;http://unocardinfo.victorhomedia.com/graphics/uno_card-green3.png
+4;green;http://unocardinfo.victorhomedia.com/graphics/uno_card-green4.png
+5;green;http://unocardinfo.victorhomedia.com/graphics/uno_card-green5.png
+6;green;http://unocardinfo.victorhomedia.com/graphics/uno_card-green6.png
+7;green;http://unocardinfo.victorhomedia.com/graphics/uno_card-green7.png
+8;green;http://unocardinfo.victorhomedia.com/graphics/uno_card-green8.png
+9;green;http://unocardinfo.victorhomedia.com/graphics/uno_card-green9.png
+1;green;http://unocardinfo.victorhomedia.com/graphics/uno_card-green1.png
+2;green;http://unocardinfo.victorhomedia.com/graphics/uno_card-green2.png
+3;green;http://unocardinfo.victorhomedia.com/graphics/uno_card-green3.png
+4;green;http://unocardinfo.victorhomedia.com/graphics/uno_card-green4.png
+5;green;http://unocardinfo.victorhomedia.com/graphics/uno_card-green5.png
+6;green;http://unocardinfo.victorhomedia.com/graphics/uno_card-green6.png
+7;green;http://unocardinfo.victorhomedia.com/graphics/uno_card-green7.png
+8;green;http://unocardinfo.victorhomedia.com/graphics/uno_card-green8.png
+9;green;http://unocardinfo.victorhomedia.com/graphics/uno_card-green9.png
+0;blue;http://unocardinfo.victorhomedia.com/graphics/uno_card-blue0.png
+1;blue;http://unocardinfo.victorhomedia.com/graphics/uno_card-blue1.png
+2;blue;http://unocardinfo.victorhomedia.com/graphics/uno_card-blue2.png
+3;blue;http://unocardinfo.victorhomedia.com/graphics/uno_card-blue3.png
+4;blue;http://unocardinfo.victorhomedia.com/graphics/uno_card-blue4.png
+5;blue;http://unocardinfo.victorhomedia.com/graphics/uno_card-blue5.png
+6;blue;http://unocardinfo.victorhomedia.com/graphics/uno_card-blue6.png
+7;blue;http://unocardinfo.victorhomedia.com/graphics/uno_card-blue7.png
+8;blue;http://unocardinfo.victorhomedia.com/graphics/uno_card-blue8.png
+9;blue;http://unocardinfo.victorhomedia.com/graphics/uno_card-blue9.png
+1;blue;http://unocardinfo.victorhomedia.com/graphics/uno_card-blue1.png
+2;blue;http://unocardinfo.victorhomedia.com/graphics/uno_card-blue2.png
+3;blue;http://unocardinfo.victorhomedia.com/graphics/uno_card-blue3.png
+4;blue;http://unocardinfo.victorhomedia.com/graphics/uno_card-blue4.png
+5;blue;http://unocardinfo.victorhomedia.com/graphics/uno_card-blue5.png
+6;blue;http://unocardinfo.victorhomedia.com/graphics/uno_card-blue6.png
+7;blue;http://unocardinfo.victorhomedia.com/graphics/uno_card-blue7.png
+8;blue;http://unocardinfo.victorhomedia.com/graphics/uno_card-blue8.png
+9;blue;http://unocardinfo.victorhomedia.com/graphics/uno_card-blue9.png
+Skip;red;http://unocardinfo.victorhomedia.com/graphics/uno_card-redskip.png
+Skip;red;http://unocardinfo.victorhomedia.com/graphics/uno_card-redskip.png
+Skip;yellow;http://unocardinfo.victorhomedia.com/graphics/uno_card-yellowskip.png
+Skip;yellow;http://unocardinfo.victorhomedia.com/graphics/uno_card-yellowskip.png
+Skip;green;http://unocardinfo.victorhomedia.com/graphics/uno_card-greenskip.png
+Skip;green;http://unocardinfo.victorhomedia.com/graphics/uno_card-greenskip.png
+Skip;blue;http://unocardinfo.victorhomedia.com/graphics/uno_card-blueskip.png
+Skip;blue;http://unocardinfo.victorhomedia.com/graphics/uno_card-blueskip.png
+Reverse;red;http://unocardinfo.victorhomedia.com/graphics/uno_card-redreverse.png
+Reverse;red;http://unocardinfo.victorhomedia.com/graphics/uno_card-redreverse.png
+Reverse;yellow;http://unocardinfo.victorhomedia.com/graphics/uno_card-yellowreverse.png
+Reverse;yellow;http://unocardinfo.victorhomedia.com/graphics/uno_card-yellowreverse.png
+Reverse;green;http://unocardinfo.victorhomedia.com/graphics/uno_card-greenreverse.png
+Reverse;green;http://unocardinfo.victorhomedia.com/graphics/uno_card-greenreverse.png
+Reverse;blue;http://unocardinfo.victorhomedia.com/graphics/uno_card-bluereverse.png
+Reverse;blue;http://unocardinfo.victorhomedia.com/graphics/uno_card-bluereverse.png
+Draw Two;red;http://unocardinfo.victorhomedia.com/graphics/uno_card-reddraw2.png
+Draw Two;red;http://unocardinfo.victorhomedia.com/graphics/uno_card-reddraw2.png
+Draw Two;yellow;http://unocardinfo.victorhomedia.com/graphics/uno_card-yellowdraw2.png
+Draw Two;yellow;http://unocardinfo.victorhomedia.com/graphics/uno_card-yellowdraw2.png
+Draw Two;green;http://unocardinfo.victorhomedia.com/graphics/uno_card-greendraw2.png
+Draw Two;green;http://unocardinfo.victorhomedia.com/graphics/uno_card-greendraw2.png
+Draw Two;blue;http://unocardinfo.victorhomedia.com/graphics/uno_card-bluedraw2.png
+Draw Two;blue;http://unocardinfo.victorhomedia.com/graphics/uno_card-bluedraw2.png
+Wild;black;http://unocardinfo.victorhomedia.com/graphics/uno_card-wildchange.png
+Wild;black;http://unocardinfo.victorhomedia.com/graphics/uno_card-wildchange.png
+Wild;black;http://unocardinfo.victorhomedia.com/graphics/uno_card-wildchange.png
+Wild;black;http://unocardinfo.victorhomedia.com/graphics/uno_card-wildchange.png
+Wild Draw Four;black;http://unocardinfo.victorhomedia.com/graphics/uno_card-wilddraw4.png
+Wild Draw Four;black;http://unocardinfo.victorhomedia.com/graphics/uno_card-wilddraw4.png
+Wild Draw Four;black;http://unocardinfo.victorhomedia.com/graphics/uno_card-wilddraw4.png
+Wild Draw Four;black;http://unocardinfo.victorhomedia.com/graphics/uno_card-wilddraw4.png
+Wild Draw Four;black;http://unocardinfo.victorhomedia.com/graphics/uno_card-wilddraw4.png
